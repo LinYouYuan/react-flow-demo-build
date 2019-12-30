@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.js": "/static/js/main.30def055.chunk.js",
-    "runtime-main.js": "/static/js/runtime-main.c4337701.js",
-    "vendors.css": "/static/css/vendors.b7801860.chunk.css",
-    "vendors.js": "/static/js/vendors.583def71.chunk.js",
-    "index.html": "/index.html",
-    "precache-manifest.1c6ffea41ece48f22fe848db11bac0ab.js": "/precache-manifest.1c6ffea41ece48f22fe848db11bac0ab.js",
-    "service-worker.js": "/service-worker.js",
-    "static/js/vendors.583def71.chunk.js.LICENSE": "/static/js/vendors.583def71.chunk.js.LICENSE"
+    "main.js": "/react-flow-demo-build/static/js/main.30def055.chunk.js",
+    "runtime-main.js": "/react-flow-demo-build/static/js/runtime-main.50ca2161.js",
+    "vendors.css": "/react-flow-demo-build/static/css/vendors.b7801860.chunk.css",
+    "vendors.js": "/react-flow-demo-build/static/js/vendors.a759f6ec.chunk.js",
+    "index.html": "/react-flow-demo-build/index.html",
+    "precache-manifest.b1cc0a3871665e4e70ba7a22b9415cfe.js": "/react-flow-demo-build/precache-manifest.b1cc0a3871665e4e70ba7a22b9415cfe.js",
+    "service-worker.js": "/react-flow-demo-build/service-worker.js",
+    "static/js/vendors.a759f6ec.chunk.js.LICENSE": "/react-flow-demo-build/static/js/vendors.a759f6ec.chunk.js.LICENSE"
   },
   "entrypoints": [
-    "static/js/runtime-main.c4337701.js",
+    "static/js/runtime-main.50ca2161.js",
     "static/css/vendors.b7801860.chunk.css",
-    "static/js/vendors.583def71.chunk.js",
+    "static/js/vendors.a759f6ec.chunk.js",
     "static/js/main.30def055.chunk.js"
   ]
 }
